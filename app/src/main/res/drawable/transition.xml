@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/anhbig"
+        android:gravity="center"
+        ></item>
+    <item
+        android:drawable="@drawable/anhsmall"
+        android:gravity="center"
+        android:width="500dp"
+        android:height="500dp"></item>
+</transition>
